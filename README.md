@@ -32,5 +32,5 @@ s.no|name|designation
 3|krishana|chairman
 
 😁 😃  🥲
-~~ i like github ~~
+~~i like github~~
 
